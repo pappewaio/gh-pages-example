@@ -5,14 +5,14 @@ title: Team
 
 # Person A
 
-Short bio ...
+Great personality, no fake
 
 
 # Person B
 
-Short bio ...
+Fore-runner in technology
 
 
 # Person C
 
-Short bio ...
+Sent by God 
